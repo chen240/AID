@@ -8,3 +8,5 @@ git好用还是svn好用？
 
 jame-->jame1
 >>>>>>> dev_Jame
+
+远程操作示例
